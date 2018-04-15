@@ -1,0 +1,23 @@
+{
+  "name": "Youtube Franz",
+  "version": "1.0.0",
+  "description": "YT franz",
+  "main": "index.js",
+  "author": "Michał Sobczak msobczak@pron.pl",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.youtube.com/",
+    "serviceName": "Youtube",
+    "message": "Youtube",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
