@@ -1,5 +1,6 @@
 {
-  "name": "Youtube Franz",
+  "id": "youtube",
+  "name": "Youtube",
   "version": "1.0.0",
   "description": "YT franz",
   "main": "index.js",
